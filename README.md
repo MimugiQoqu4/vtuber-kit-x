@@ -90,3 +90,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: vtuber-kit-x, avatar, tracking, tts, stream, content, windows, ai, vtuber, cli, developer-tools, open-source, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+ai vtuber avatar tracking tts stream content windows vtuber-avatar-ai vtuber-kit-x ai-vtuber-toolkit windows portable prebuilt x64 free download
+related: ai, vtuber, avatar, tracking, tts, stream, content, windows

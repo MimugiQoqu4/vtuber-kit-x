@@ -1,0 +1,23 @@
+{
+  "module": "vtuber-kit-x",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "avatar": {
+      "enabled": true
+    },
+    "tracking": {
+      "enabled": true
+    },
+    "tts": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
